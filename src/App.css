@@ -40,3 +40,20 @@
 .read-the-docs {
   color: #888;
 }
+
+td,
+th {
+  padding: 20px;
+  border: 1px solid #646cff46;
+}
+
+.contact-img {
+  width: 100px;
+}
+
+.actions {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 20px;
+}
